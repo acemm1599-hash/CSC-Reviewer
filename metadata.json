@@ -1,0 +1,7 @@
+{
+  "name": "CSC Master: Professional Level Prep",
+  "description": "A comprehensive mobile-first learning system for the Civil Service Commission Professional Level exam, featuring 170-question mock exams, detailed explanations, and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
